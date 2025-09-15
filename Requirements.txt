@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+joblib
+sklearn==0.0
+xgboost
+streamlit
+
+#python 3.10.0
